@@ -42,7 +42,7 @@ BOARD_HAS_NO_SELECT_BUTTON := true
 TARGET_NO_HW_VSYNC := true
 
 # Vold
-BOARD_VOLD_MAX_PARTITIONS := 36
+BOARD_VOLD_MAX_PARTITIONS := 39
 
 #no idea what these things do, but it fixed a warning with twrp :p
 TARGET_USE_CUSTOM_LUN_FILE_PATH := "/sys/class/android_usb/android0/f_mass_storage/lun0/file"
